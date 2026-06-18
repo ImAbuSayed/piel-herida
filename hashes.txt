@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel herida
+
+This log tracks the cryptographic history and versioning for the song **Piel herida** (piel-herida).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T21:59:05.849733 | `v1` | `0ccb0298482624b5c475f5db2868cfa842988767ce8d24c0c18db7de0cfd95fa` | `8894a34f48b304f43eed00d1c91f8aaf6d11df524a29d03a2cbc3f5d36be28e7` | `2026-06-18_piel-herida-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
