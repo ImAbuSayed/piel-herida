@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-herida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Piel herida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-herida/) |
+| **Get License** | [Commercial Licensing for Piel herida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-herida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esa piel herida pide mi calor de madrugá'
+> Sabes que conmigo tú te sientes tan elevá'
+> Mami, tú eres única, la que me tiene sin pensar
+> Vamos pa' la calle, que la noche va a empezar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
